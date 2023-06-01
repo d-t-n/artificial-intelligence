@@ -24,7 +24,10 @@ Ethical Considerations: Throughout the entire process, it is important to apply 
 
 By combining logical reasoning and programming skills within ML, it is possible to effectively address real-world problems. Applying logical thinking allows for informed decision-making, while programming provides the tools to implement complex algorithms and models. This integration enables the development of robust, efficient, and scalable ML solutions that can have a positive impact in various domains.
 
-Project for topic demonstration: 1-project.ipynb
+Project 1 for topic demonstration: 1.1-project.ipynb
+
+Project 2 for topic demonstration: 1.2-project.ipynb
+
 
 ## 2. - Use probabilistic inference to navigate uncertain information efficiently
 Probabilistic inference is a powerful tool used in various fields to navigate and process uncertain information efficiently. It enables us to reason and make informed decisions based on incomplete or noisy data, by quantifying and propagating uncertainty through probabilistic models. This approach has found applications in diverse domains such as artificial intelligence, statistics, robotics, finance, and healthcare.
