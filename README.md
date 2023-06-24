@@ -151,3 +151,5 @@ Conclusion:
 Developing perception systems for AI involves careful planning, thorough analysis of challenges, and meticulous execution. By understanding the scope, objectives, and requirements of the system, addressing sensor limitations, handling uncertainty, and continuously refining the system, it is possible to overcome the challenges and build reliable perception systems for various AI applications. This comprehensive guide provides a step-by-step approach to help AI experts navigate the complexities of perception systems successfully.
 
 Project example 4.-project.ipynb
+
+## 5. Utilize sensors to execute perception tasks and their applications in intelligent systems
