@@ -287,7 +287,7 @@ After training, the image classifier based on Vision Transformers is tested usin
 
 
 
- ## 7. - Design an agent that can plan and act to achieve given objectives using noisy sensors and actuators
+ ## 7. Design an agent that can plan and act to achieve given objectives using noisy sensors and actuators
 
 Introduction:
 In the field of artificial intelligence, designing intelligent agents that can plan and act to achieve specific objectives is a crucial research area. However, in real-world scenarios, agents often encounter uncertainties due to noisy sensors and actuators, which can impact their decision-making and goal attainment. This comprehensive text aims to explore the concept of designing an agent that can effectively plan and act while considering the challenges posed by noisy sensors and actuators. We will delve into the underlying principles, techniques, and steps involved in creating such agents.
